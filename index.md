@@ -1,6 +1,6 @@
 ---
 title: Lightpad Block Project List
-subtitle: List of community projects for ROLI Lightpad Blocks
+subtitle: List of community projects for ROLI Lightpad Block
 ---
 
 ## Dynamic Controls
