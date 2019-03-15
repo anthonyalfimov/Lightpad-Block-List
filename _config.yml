@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: Lightpad Block Project List
+description: List of community projects for ROLI Lightpad Blocks (sorted alphabetically by author)
+
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 0
