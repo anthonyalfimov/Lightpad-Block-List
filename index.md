@@ -67,18 +67,18 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 
 ---
 
-## 8-Step MIDI Sequencer
-*by Liam Lacey @ AskAudio* | [\[Article & Download\]](https://ask.audio/articles/how-to-hack-roli-lightpad-block-into-an-8step-midi-sequencer)
-
-> A simple 8-step monophonic MIDI step sequencer, which contains: 8 sliders for setting a step's note (from a set scale), or for turning the step off; a slider on the right side for setting the sequence tempo; a button on the top-right corner that, when held, allows you to apply pressure to the note sliders to set the notes velocity.The button the side of the Lightpad starts/stop the sequence. The sequence can also be started/stopped via MIDI start/continue/stop messages.
-
----
-
 ## Axyz Gems
-*by Joris Röling @ Bonboa* | [\[Article\]](https://github.com/jorisroling/axyz-gems) [\[Download\]](https://github.com/jorisroling/axyz-gems/blob/master/Axyz%20Gems.littlefoot)
+*by Joris Röling @ Bonboa* | [\[Download\]](https://github.com/jorisroling/axyz-gems/blob/master/Axyz%20Gems.littlefoot) | [\[Article\]](https://github.com/jorisroling/axyz-gems)
 
 > This LittleFoot script will turn a **ROLI Lightpad Block** into a high-res multi XY surface. Multi as in five times... for five fingers... at the same time!
 
 > For every finger (touch) it shows a pulsing (on the beat if available) gem in a bright colour. The position of these  gems are translated into MIDI Control Changes which can be mapped to anything in modern DAW's (Digital Audio Workstations) such as Ableton Live. A setup page on the device itself facilitates the easy creation of this kind of mappings.
 
 > I created this script because I really enjoy the plugins by U-he (Hive & Zebra2 in particular). These plugins have very nice XY controls which I map through Ableton Live (with Absolute 14-bit precision). These plugins also have CC 2 (breath) and CC 11 (expression) mapped as extra controllers, so the first gem (orange) uses these.
+
+---
+
+## 8-Step MIDI Sequencer
+*by Liam Lacey @ AskAudio* | [\[Article & Download\]](https://ask.audio/articles/how-to-hack-roli-lightpad-block-into-an-8step-midi-sequencer)
+
+> A simple 8-step monophonic MIDI step sequencer, which contains: 8 sliders for setting a step's note (from a set scale), or for turning the step off; a slider on the right side for setting the sequence tempo; a button on the top-right corner that, when held, allows you to apply pressure to the note sliders to set the notes velocity.The button the side of the Lightpad starts/stop the sequence. The sequence can also be started/stopped via MIDI start/continue/stop messages.
