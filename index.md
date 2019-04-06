@@ -14,6 +14,8 @@ subtitle: List of community projects for ROLI Lightpad Block
 
 # Project List
 
+Community projects for ROLI Lightpad Block, sorted alphabetically by author.
+
 ## Dynamic Controls
 *by Andreas Swoboda* | [\[Download\]](https://swonic.com/dynamic-controls/) | [\[Video\]](https://www.youtube.com/watch?v=-4QZrO7d0P8)
 
