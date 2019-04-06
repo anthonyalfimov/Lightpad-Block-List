@@ -6,7 +6,7 @@ subtitle: List of community projects for ROLI Lightpad Block
 # App Installation
 
 1. Make sure you have [ROLI Dashboard](https://roli.com/products/software/blocks-dashboard) installed.
-2. Copy the `<app_name>.littlefoot` file (and `<app_name>.littlefootModes` folder when applicable) into `Documents/ROLI/LittleFoot/` (both Win and MacOS; you may have to create the folders if they don't exist).
+2. Copy the downloaded `<app_name>.littlefoot` file (and `<app_name>.littlefootModes` folder when applicable) into `Documents/ROLI/LittleFoot/` (both Win and MacOS; you may have to create the folders if they don't exist).
 3. Launch ROLI Dashboard and select the app to load it into your Lightpad Block and tweak its parameters ("Edit" button).
 
 
