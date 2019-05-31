@@ -24,7 +24,7 @@ Community projects for ROLI Lightpad Block, sorted alphabetically by author.
 ---
 
 ## Christmas Tree
-*by Anthony Alfimov* | [\[Download\]](https://github.com/anthonyalfimov/Lightpad-Block-Sandbox/tree/master/Christmas%20Tree) | [\[Video\]](https://www.instagram.com/p/BsG6yCYB9jI/)
+*by Anthony Alfimov* | [\[Download\]](https://github.com/anthonyalfimov/Lightpad-Block-Sandbox/releases/tag/Christmas-Tree-v1.0) | [\[Video\]](https://www.instagram.com/p/BsG6yCYB9jI/)
 
 > Festive Christmas Tree controller. Tap the Star to make it shine and play the specified note (with velocity, pitch bend and channel pressure). Tap the block anywhere else to make it snow (and toggle the specified MIDI CC to ON). Tap again to melt the snow away (and toggle MIDI CC to OFF).
 
