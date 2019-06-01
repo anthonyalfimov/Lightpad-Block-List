@@ -66,6 +66,13 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 
 ---
 
+## Melodic Bouncing Ball
+*by Guy Dupont* | [\[Download\]](https://github.com/dupontgu/roli-blocks-melodic-bounce) | [\[Video\]](https://youtu.be/O47i_-W_0F4)
+
+> Click and drag to draw rectangles.  When the ball collides, MIDI notes will be triggered.
+
+---
+
 ## Volume and Pan Faders
 *by HughFays* | [\[Download\]](https://github.com/HughFays/ROLI---Littlefoot-Scripts) | [\[Video\]](https://www.youtube.com/watch?v=JrypU_PXPwY)
 
