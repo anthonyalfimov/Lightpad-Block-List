@@ -91,6 +91,13 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 
 ---
 
+## GestureRNN-ML4Lightpad
+*by Lamtharn (Hanoi) Hantrakul* | [\[Download\]](https://github.com/lamtharnhantrakul/GestureRNN-ML4Lightpad) | [\[Video\]](https://www.youtube.com/watch?v=VgoVGpllaSY)
+
+> Using LSTM(Long Short-Term Memory) to learn a musician's musical gestures on the Roli Lightpad and collaboratively generate new musical responses.
+
+---
+
 ## 8-Step MIDI Sequencer
 *by Liam Lacey @ AskAudio* | [\[Article & Download\]](https://ask.audio/articles/how-to-hack-roli-lightpad-block-into-an-8step-midi-sequencer)
 
