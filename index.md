@@ -98,6 +98,13 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 
 ---
 
+## Transistor-N Keyboard
+*by Jørgen Kirksæther* | [\[Download\]](https://github.com/Transistor-N/Littlefoot)
+
+> Simple one-octave keyboard + octave switches.
+
+---
+
 ## GestureRNN-ML4Lightpad
 *by Lamtharn (Hanoi) Hantrakul* | [\[Download\]](https://github.com/lamtharnhantrakul/GestureRNN-ML4Lightpad) | [\[Video\]](https://www.youtube.com/watch?v=VgoVGpllaSY)
 
