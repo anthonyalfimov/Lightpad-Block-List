@@ -92,9 +92,9 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 *by Joris Röling @ Bonboa* | [\[Download\]](https://github.com/jorisroling/axyz-gems/blob/master/Axyz%20Gems.littlefoot) | [\[Article\]](https://github.com/jorisroling/axyz-gems)
 
 > This LittleFoot script will turn a **ROLI Lightpad Block** into a high-res multi XY surface. Multi as in five times... for five fingers... at the same time!
-
+>
 > For every finger (touch) it shows a pulsing (on the beat if available) gem in a bright colour. The position of these  gems are translated into MIDI Control Changes which can be mapped to anything in modern DAW's (Digital Audio Workstations) such as Ableton Live. A setup page on the device itself facilitates the easy creation of this kind of mappings.
-
+>
 > I created this script because I really enjoy the plugins by U-he (Hive & Zebra2 in particular). These plugins have very nice XY controls which I map through Ableton Live (with Absolute 14-bit precision). These plugins also have CC 2 (breath) and CC 11 (expression) mapped as extra controllers, so the first gem (orange) uses these.
 
 ---
