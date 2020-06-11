@@ -107,7 +107,7 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ---
 
 ## Seqoli MIDI sequencer
-*by Joshua Subramaniam* | [\[Download\]](https://suubro.github.io/Seqoli/) 
+*by Joshua Subramaniam* | [\[Download\]](https://suubro.github.io/Seqoli/) | [\[Source\]](https://github.com/SuuBro/Seqoli)
 
 > Seqoli is a 'DAW-less' midi sequencer interface designed to run on one or more ROLI Lightpad BLOCKS. Drawing inspiration from Monome grid, Seqoli is great for creating polyrhythms on the fly or sequencing an entire track. Snap together multiple Lightpad BLOCKS to extend your sequencer length and/or track count.
 
