@@ -19,7 +19,7 @@ Community projects for ROLI Lightpad Block, sorted alphabetically by author.
 ## Dynamic Controls 2
 *by Andreas Swoboda and Anthony Alfimov* | [\[Download\]](https://swonic.com/dynamic-controls/) | [\[Video\]](https://youtu.be/NrpUNTRJZtc)
 
-> Dynamic Controls app for ROLI Dashboard turns your ROLI Lightpad Block into a highly customisable MIDI control surface.
+> **Dynamic Controls** app for ROLI Dashboard turns your ROLI Lightpad Block into a highly customisable MIDI control surface.
 Design your control layout using Buttons, Faders and XY Pads!
 
 ---
@@ -49,7 +49,7 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ## Random Pentatonic Music
 *by Donya Quick* | [\[Download\]](https://github.com/donya/LittlefootProjects/blob/master/simple_generative_music.littlefoot) | [\[Video\]](https://www.youtube.com/watch?v=cG7JUC06XA8)
 
-> Random Pentatonic Music for the ROLI Lightpad Block
+> Random pentatonic music for the ROLI Lightpad Block
 
 ---
 
@@ -91,7 +91,7 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ## Axyz Gems
 *by Joris Röling @ Bonboa* | [\[Download\]](https://github.com/jorisroling/axyz-gems/blob/master/Axyz%20Gems.littlefoot) | [\[Article\]](https://github.com/jorisroling/axyz-gems)
 
-> This LittleFoot script will turn a **ROLI Lightpad Block** into a high-res multi XY surface. Multi as in five times... for five fingers... at the same time!
+> This LittleFoot script will turn a ROLI Lightpad Block into a high-res multi XY surface. Multi as in five times... for five fingers... at the same time!
 >
 > For every finger (touch) it shows a pulsing (on the beat if available) gem in a bright colour. The position of these  gems are translated into MIDI Control Changes which can be mapped to anything in modern DAW's (Digital Audio Workstations) such as Ableton Live. A setup page on the device itself facilitates the easy creation of this kind of mappings.
 >
@@ -109,14 +109,14 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ## Seqoli MIDI sequencer
 *by Joshua Subramaniam* | [\[Download\]](https://suubro.github.io/Seqoli/) | [\[Source\]](https://github.com/SuuBro/Seqoli)
 
-> Seqoli is a 'DAW-less' midi sequencer interface designed to run on one or more ROLI Lightpad BLOCKS. Drawing inspiration from Monome grid, Seqoli is great for creating polyrhythms on the fly or sequencing an entire track. Snap together multiple Lightpad BLOCKS to extend your sequencer length and/or track count.
+> **Seqoli** is a 'DAW-less' midi sequencer interface designed to run on one or more ROLI Lightpad BLOCKS. Drawing inspiration from Monome grid, Seqoli is great for creating polyrhythms on the fly or sequencing an entire track. Snap together multiple Lightpad BLOCKS to extend your sequencer length and/or track count.
 
 ---
 
 ## KordsKontrol Light
 *by KordsKontrol* | [\[Download\]](https://kordskontrol.com/downloads/) | [\[Video\]](https://www.youtube.com/watch?v=WfvUr2lCDcM)
 
-> KordsKontrol Light, a dynamic chords generator following Bach chorales voice leading rules for the Lightpad.
+> **KordsKontrol Light**, a dynamic chords generator following Bach chorales voice leading rules for the Lightpad.
 
 ---
 
