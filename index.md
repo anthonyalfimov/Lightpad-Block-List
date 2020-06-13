@@ -113,10 +113,10 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 
 ---
 
-## KordsKontrol Lite
-*by Kords Kontrol* | [\[Download\]](https://kordskontrol.com/downloads/) | [\[Video\]](https://www.youtube.com/watch?v=WfvUr2lCDcM)
+## KordsKontrol Light
+*by KordsKontrol* | [\[Download\]](https://kordskontrol.com/downloads/) | [\[Video\]](https://www.youtube.com/watch?v=WfvUr2lCDcM)
 
-> A simplified standalone version of [KordsKontrol](https://kordskontrol.com) running on ROLI hardware.
+> KordsKontrol Light, a dynamic chords generator following Bach chorales voice leading rules for the Lightpad.
 
 ---
 
