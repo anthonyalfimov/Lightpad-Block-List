@@ -113,6 +113,13 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 
 ---
 
+## KordsKontrol Lite
+*by Kords Kontrol* | [\[Download\]](https://kordskontrol.com/downloads/) | [\[Video\]](https://www.youtube.com/watch?v=WfvUr2lCDcM)
+
+> A simplified standalone version of [KordsKontrol](https://kordskontrol.com) running on ROLI hardware.
+
+---
+
 ## GestureRNN-ML4Lightpad
 *by Lamtharn (Hanoi) Hantrakul* | [\[Download\]](https://github.com/lamtharnhantrakul/GestureRNN-ML4Lightpad) | [\[Video\]](https://www.youtube.com/watch?v=VgoVGpllaSY)
 
