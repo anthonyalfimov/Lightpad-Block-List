@@ -120,6 +120,13 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 
 ---
 
+## sKalesKontrol Light
+*by KordsKontrol* | [\[Download\]](https://kordskontrol.com/downloads/) | [\[Video\]](https://www.youtube.com/watch?v=POOTMMp3qCE)
+
+> **sKalesKontrol Light** is a polyphonic isomorphic scalable note grid with quantizable bi-axis pitchbend.
+
+---
+
 ## GestureRNN-ML4Lightpad
 *by Lamtharn (Hanoi) Hantrakul* | [\[Download\]](https://github.com/lamtharnhantrakul/GestureRNN-ML4Lightpad) | [\[Video\]](https://www.youtube.com/watch?v=VgoVGpllaSY)
 
