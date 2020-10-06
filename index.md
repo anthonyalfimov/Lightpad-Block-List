@@ -149,6 +149,19 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 
 ---
 
+## LDM ROLI Blocks Pack Two [Paid]
+*by LDM Design* | [\[Buy\]](https://isotonikstudios.com/product/ldm-roli-blocks-pack-two/) | [\[Video Playlist\]](https://www.youtube.com/playlist?list=PL4MRxWhueR3xW5eWochoOWSGXr64V3bCx)
+
+> **Bjorklund** is a euclidean sequencer with 6 channels. Each channel can have up to 24 steps for the total length. The number of pulses within those steps are spread out as evenly as possible across the sequence according to the Bjorklund euclidean algorithm.
+>
+> **Chance** is a 16 step, 6 track sequencer which includes mute and solo controls for live manipulation. With this app you can also set the velocity level and the probability for each step. This can allow for evolving and semi-generative patterns within the 16 step sequence.
+>
+> **Pentagome** is inspired by the Polygome monome device. The app allows instant transposition of up to 5 different programmable sequences. Set to a specific scale, a set pattern can be played from up to 20 different notes, and responds to pressure and slide. Each pattern can then be latched on while preserving the pressure and slide values, while you can play a new pattern on the grid. Each pattern can be set with a dynamic pattern length which can include empty steps.
+>
+> **Pressulator** is inspired by the Korg Kaossilator. Play through a scale by sliding your finger across the block. As you slide your finger across the X-axis, the notes will play through a scale. The Y-axis will send the slide parameter. The app is designed to be monophonic.
+
+---
+
 ## 8-Step MIDI Sequencer
 *by Liam Lacey @ AskAudio* | [\[Article & Download\]](https://ask.audio/articles/how-to-hack-roli-lightpad-block-into-an-8step-midi-sequencer)
 
