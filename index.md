@@ -142,6 +142,9 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ---
 
 ## sKalesKontrol Light
+
+[![sKalesKontrol Light Video](https://img.youtube.com/vi/POOTMMp3qCE/0.jpg)](https://www.youtube.com/watch?v=POOTMMp3qCE)
+
 *by KordsKontrol* | [\[Download\]](https://kordskontrol.com/downloads/) | [\[Video\]](https://www.youtube.com/watch?v=POOTMMp3qCE)
 
 > **sKalesKontrol Light** is a polyphonic isomorphic scalable note grid with quantizable bi-axis pitchbend.
