@@ -180,6 +180,9 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ---
 
 ## LDM ROLI Blocks Pack Two [Paid]
+
+[![LDM ROLI Blocks Pack Playlist](https://img.youtube.com/vi/3MSL1IDcfW8/0.jpg)](https://www.youtube.com/playlist?list=PL4MRxWhueR3xW5eWochoOWSGXr64V3bCx)
+
 *by LDM Design* | [\[Buy\]](https://isotonikstudios.com/product/ldm-roli-blocks-pack-two/) | [\[Video Playlist\]](https://www.youtube.com/playlist?list=PL4MRxWhueR3xW5eWochoOWSGXr64V3bCx)
 
 > **Bjorklund** is a euclidean sequencer with 6 channels. Each channel can have up to 24 steps for the total length. The number of pulses within those steps are spread out as evenly as possible across the sequence according to the Bjorklund euclidean algorithm.
