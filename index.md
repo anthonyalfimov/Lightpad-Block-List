@@ -17,6 +17,9 @@ subtitle: List of community projects for ROLI Lightpad Block
 Community projects for ROLI Lightpad Block, sorted alphabetically by author.
 
 ## Dynamic Controls 2
+
+[![Dynamic Controls Trailer](https://img.youtube.com/vi/NrpUNTRJZtc/0.jpg)](https://www.youtube.com/watch?v=NrpUNTRJZtc)
+
 *by Andreas Swoboda and Anthony Alfimov* | [\[Download\]](https://swonic.com/dynamic-controls/) | [\[Video\]](https://youtu.be/NrpUNTRJZtc)
 
 > **Dynamic Controls** app for ROLI Dashboard turns your ROLI Lightpad Block into a highly customisable MIDI control surface.
