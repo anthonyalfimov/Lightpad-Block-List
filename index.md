@@ -88,7 +88,7 @@ A generative system for the ROLI Lightpad Block, features generative algorithms 
 
 [![ROLI Lightpad Block demo - custom drawing patch](https://img.youtube.com/vi/O47i_-W_0F4/0.jpg)](https://www.youtube.com/watch?v=O47i_-W_0F4)
 
-*by Guy Dupont* | [\[Download\]](https://github.com/dupontgu/roli-blocks-melodic-bounce) | [\[Video\]](https://youtu.be/O47i_-W_0F4)
+*by Guy Dupont* | [\[Download\]](https://github.com/dupontgu/roli-blocks-melodic-bounce) | [\[Video\]](https://youtu.be/O47i_-W_0F4) | [\[Demo by Perplex On\]](https://www.youtube.com/watch?v=mCvAFdrIR60)
 
 Click and drag to draw rectangles.  When the ball collides, MIDI notes will be triggered.
 
