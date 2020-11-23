@@ -50,6 +50,9 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ---
 
 ## Random Pentatonic Music
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cG7JUC06XA8/0.jpg)](https://www.youtube.com/watch?v=cG7JUC06XA8)
+
 *by Donya Quick* | [\[Download\]](https://github.com/donya/LittlefootProjects/blob/master/simple_generative_music.littlefoot) | [\[Video\]](https://www.youtube.com/watch?v=cG7JUC06XA8)
 
 > Random pentatonic music for the ROLI Lightpad Block
