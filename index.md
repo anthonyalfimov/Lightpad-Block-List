@@ -87,6 +87,9 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ---
 
 ## Volume and Pan Faders
+
+[![Custom Volume and Pan Faders for Versatile DAW Control](https://img.youtube.com/vi/JrypU_PXPwY/0.jpg)](https://www.youtube.com/watch?v=JrypU_PXPwY)
+
 *by HughFays* | [\[Download\]](https://github.com/HughFays/ROLI---Littlefoot-Scripts) | [\[Video\]](https://www.youtube.com/watch?v=JrypU_PXPwY)
 
 > 16-Channel Volume and Pan Faders. This Littlefoot script allows for control over DAW track Volume Faders and Pan Faders from the surface of the Lightpad Block.
