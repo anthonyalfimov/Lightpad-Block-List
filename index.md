@@ -40,6 +40,9 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ---
 
 ## Lightpad Cello
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fnAejZ-bZ0Y/0.jpg)](https://www.youtube.com/watch?v=fnAejZ-bZ0Y)
+
 *by Brian Wang* | [\[Download\]](https://github.com/wangpy/LightpadCello) | [\[Video\]](https://www.youtube.com/watch?v=fnAejZ-bZ0Y)
 
 > Cello Controller using Lightpad Blocks
