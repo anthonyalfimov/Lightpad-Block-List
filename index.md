@@ -162,6 +162,9 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ---
 
 ## LDM ROLI Blocks Pack [Paid]
+
+[![LDM ROLI Blocks Pack Playlist](https://img.youtube.com/vi/vV02FiNLysc/0.jpg)](https://www.youtube.com/playlist?list=PL4MRxWhueR3w-gSqCAdU0e0xQfbhYkaap)
+
 *by LDM Design* | [\[Buy\]](https://isotonikstudios.com/product/ldm-roli-blocks-pack/) | [\[Video Playlist\]](https://www.youtube.com/playlist?list=PL4MRxWhueR3w-gSqCAdU0e0xQfbhYkaap)
 
 > **Boing Block** is based on a monome device which provides an easy and fun interface for creating polymetric rhythms. It allows for different directional modes for more sequence lengths. The app can run from the Lightpad’s internal clocking ability (which is limited to arbitrary speeds and can’t provide specific BPM values) or by an external clock source. It will also advance once step each time it receives a C-2 note, which can allow for different speeds and odd sequencing.
