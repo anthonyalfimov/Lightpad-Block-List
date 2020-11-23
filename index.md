@@ -97,6 +97,9 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ---
 
 ## Sketch Block
+
+[![SketchBlock - Roli Block based five part midi sequencer and play surface](https://img.youtube.com/vi/4PS8MoqHYto/0.jpg)](https://www.youtube.com/watch?v=4PS8MoqHYto)
+
 *by Jeff Tobin* | [\[Download\]](https://github.com/JeffTobin/SketchBlock) | [\[Video\]](https://www.youtube.com/watch?v=4PS8MoqHYto)
 
 > Roli Block powered five part midi sequencer and play surface.
