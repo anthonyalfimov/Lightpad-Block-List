@@ -44,7 +44,7 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 
 ## Lightpad Cello
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fnAejZ-bZ0Y/0.jpg)](https://www.youtube.com/watch?v=fnAejZ-bZ0Y)
+[![Lightpad Cello Video](https://img.youtube.com/vi/fnAejZ-bZ0Y/0.jpg)](https://www.youtube.com/watch?v=fnAejZ-bZ0Y)
 
 *by Brian Wang* | [\[Download\]](https://github.com/wangpy/LightpadCello) | [\[Video\]](https://www.youtube.com/watch?v=fnAejZ-bZ0Y)
 
@@ -54,7 +54,7 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 
 ## Random Pentatonic Music
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cG7JUC06XA8/0.jpg)](https://www.youtube.com/watch?v=cG7JUC06XA8)
+[![Random Pentatonic Music Video](https://img.youtube.com/vi/cG7JUC06XA8/0.jpg)](https://www.youtube.com/watch?v=cG7JUC06XA8)
 
 *by Donya Quick* | [\[Download\]](https://github.com/donya/LittlefootProjects/blob/master/simple_generative_music.littlefoot) | [\[Video\]](https://www.youtube.com/watch?v=cG7JUC06XA8)
 
