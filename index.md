@@ -132,6 +132,9 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ---
 
 ## KordsKontrol Light
+
+[![KordsKontrol Light Video](https://img.youtube.com/vi/WfvUr2lCDcM/0.jpg)](https://www.youtube.com/watch?v=WfvUr2lCDcM)
+
 *by KordsKontrol* | [\[Download\]](https://kordskontrol.com/downloads/) | [\[Video\]](https://www.youtube.com/watch?v=WfvUr2lCDcM)
 
 > **KordsKontrol Light**, a dynamic chords generator following Bach chorales voice leading rules for the Lightpad.
