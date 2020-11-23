@@ -196,6 +196,9 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ---
 
 ## 8-Step MIDI Sequencer
-*by Liam Lacey @ AskAudio* | [\[Article & Download\]](https://ask.audio/articles/how-to-hack-roli-lightpad-block-into-an-8step-midi-sequencer)
+
+[![Hacking ROLI Lightpad blocks Sequencer Demo](https://img.youtube.com/vi/anVjOsVwpME/0.jpg)](https://www.youtube.com/watch?v=anVjOsVwpME)
+
+*by Liam Lacey @ AskAudio* | [\[Article & Download\]](https://ask.audio/articles/how-to-hack-roli-lightpad-block-into-an-8step-midi-sequencer) | [\[Video\]](https://www.youtube.com/watch?v=anVjOsVwpME)
 
 > A simple 8-step monophonic MIDI step sequencer, which contains: 8 sliders for setting a step's note (from a set scale), or for turning the step off; a slider on the right side for setting the sequence tempo; a button on the top-right corner that, when held, allows you to apply pressure to the note sliders to set the notes velocity.The button the side of the Lightpad starts/stop the sequence. The sequence can also be started/stopped via MIDI start/continue/stop messages.
