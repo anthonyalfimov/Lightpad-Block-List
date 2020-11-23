@@ -16,6 +16,9 @@ subtitle: List of community projects for ROLI Lightpad Block
 
 Community projects for ROLI Lightpad Block, sorted alphabetically by author.
 
+---
+
+
 ## Dynamic Controls 2
 
 [![Dynamic Controls Trailer](https://img.youtube.com/vi/NrpUNTRJZtc/0.jpg)](https://www.youtube.com/watch?v=NrpUNTRJZtc)
@@ -178,8 +181,8 @@ Using LSTM(Long Short-Term Memory) to learn a musician's musical gestures on the
 **Boing Block** is based on a monome device which provides an easy and fun interface for creating polymetric rhythms. It allows for different directional modes for more sequence lengths. The app can run from the Lightpad’s internal clocking ability (which is limited to arbitrary speeds and can’t provide specific BPM values) or by an external clock source. It will also advance once step each time it receives a C-2 note, which can allow for different speeds and odd sequencing.
 
 **Chordset** allows an easy way to trigger chords within a Major or Minor scale. The app responds to Pressure and Slide. There are also modifiers to add the 7th and/or the 9th, and to use different inversions of the chord. Hold the 7th or 9th when striking the chord. The Inversion can be switched between Root, 1st and 2nd inversion.
->
-> **Fretpad** app is modeled on the layout and techniques of guitar strings. You can slide up and down the string, hammer on and pull off, as well as take advantage of the MPE pressure and slide features of the blocks. For anyone more familiar with a guitar than a keyboard this app provides an intuitive interface for playing. The last note pressed on any one string will send the pressure and slide value for that string.
+
+**Fretpad** app is modeled on the layout and techniques of guitar strings. You can slide up and down the string, hammer on and pull off, as well as take advantage of the MPE pressure and slide features of the blocks. For anyone more familiar with a guitar than a keyboard this app provides an intuitive interface for playing. The last note pressed on any one string will send the pressure and slide value for that string.
 
 **Mod CC** allows the user to build a custom MIDI controller which has 12 customizable slots and 4 sliders. Each slot can hold a switch, pressure pad or a momentary button. Along the bottom row are buttons which open and close a slider, which will open in that column. When the slider is hidden, the colour of the button reflects the value of the slider from green to red.
 
