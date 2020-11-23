@@ -80,6 +80,9 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ---
 
 ## Melodic Bouncing Ball
+
+[![ROLI Lightpad Block demo - custom drawing patch](https://img.youtube.com/vi/O47i_-W_0F4/0.jpg)](https://www.youtube.com/watch?v=O47i_-W_0F4)
+
 *by Guy Dupont* | [\[Download\]](https://github.com/dupontgu/roli-blocks-melodic-bounce) | [\[Video\]](https://youtu.be/O47i_-W_0F4)
 
 > Click and drag to draw rectangles.  When the ball collides, MIDI notes will be triggered.
