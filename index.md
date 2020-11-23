@@ -70,6 +70,9 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ---
 
 ## Zero Order II
+
+[![Zero Order II Video](https://img.youtube.com/vi/8aeU_SwIH1g/0.jpg)](https://www.youtube.com/watch?v=8aeU_SwIH1g)
+
 *by Donya Quick* | [\[Download\]](https://github.com/donya/LittlefootProjects/blob/master/zero_order2.littlefoot) | [\[Video\]](https://www.youtube.com/watch?v=8aeU_SwIH1g)
 
 > A generative system for the ROLI Lightpad Block, features generative algorithms based on Zero Order
