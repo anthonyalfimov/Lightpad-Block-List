@@ -152,6 +152,9 @@ The webpage also acts as a Lightpad Block Simulator. The simulated pad can recei
 ---
 
 ## GestureRNN-ML4Lightpad
+
+[![GestureRNN x ML4Lightpad](https://img.youtube.com/vi/VgoVGpllaSY/0.jpg)](https://www.youtube.com/watch?v=VgoVGpllaSY)
+
 *by Lamtharn (Hanoi) Hantrakul* | [\[Download\]](https://github.com/lamtharnhantrakul/GestureRNN-ML4Lightpad) | [\[Video\]](https://www.youtube.com/watch?v=VgoVGpllaSY)
 
 > Using LSTM(Long Short-Term Memory) to learn a musician's musical gestures on the Roli Lightpad and collaboratively generate new musical responses.
