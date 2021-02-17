@@ -42,9 +42,9 @@ Festive Christmas Tree controller. Tap the Star to make it shine and play the sp
 
 ## Polar Pad
 
-[![Polar Pad](https://user-images.githubusercontent.com/43878921/107702595-875b4a80-6ccb-11eb-8ff5-b6d22cf687fb.png)](https://github.com/anthonyalfimov/Lightpad-Block-Sandbox/releases/tag/Polar-Pad-v0.1)
+[![Polar Pad](https://user-images.githubusercontent.com/43878921/107702595-875b4a80-6ccb-11eb-8ff5-b6d22cf687fb.png)](https://github.com/anthonyalfimov/Lightpad-Block-Sandbox/releases/tag/Polar-Pad-v0.3)
 
-*by Anthony Alfimov* | [\[Download\]](https://github.com/anthonyalfimov/Lightpad-Block-Sandbox/releases/tag/Polar-Pad-v0.1)
+*by Anthony Alfimov* | [\[Download\]](https://github.com/anthonyalfimov/Lightpad-Block-Sandbox/releases/tag/Polar-Pad-v0.3)
 
 This app outputs MIDI based on the radial and angular position of your finger. Just one finger though, don't get too excited.
 
