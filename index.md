@@ -226,3 +226,15 @@ Using LSTM(Long Short-Term Memory) to learn a musician's musical gestures on the
 *by Liam Lacey @ AskAudio* | [\[Article & Download\]](https://ask.audio/articles/how-to-hack-roli-lightpad-block-into-an-8step-midi-sequencer) | [\[Video\]](https://www.youtube.com/watch?v=anVjOsVwpME)
 
 A simple 8-step monophonic MIDI step sequencer, which contains: 8 sliders for setting a step's note (from a set scale), or for turning the step off; a slider on the right side for setting the sequence tempo; a button on the top-right corner that, when held, allows you to apply pressure to the note sliders to set the notes velocity.The button the side of the Lightpad starts/stop the sequence. The sequence can also be started/stopped via MIDI start/continue/stop messages.
+
+---
+
+## ROLI-toys
+
+*by Thomas Morrill* | [\[Download\]](https://github.com/tsmorrill/ROLI-toys)
+
+MIDI generators.
+
+**Shift Register** is a 16-bit shift array with a probabilty control for memory corruption. Output of the shift register controls MIDI note and velocity.
+
+**Tilt-O-Whirl** is a 2D physics simulation with up to 8 bouncing balls. Wall collisions trigger user-defined MIDI notes.
