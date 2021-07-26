@@ -235,6 +235,10 @@ A simple 8-step monophonic MIDI step sequencer, which contains: 8 sliders for se
 
 MIDI generators.
 
-**Shift Register** is a 16-bit shift array with a probabilty control for memory corruption. Output of the shift register controls MIDI note and velocity.
+**Amuse** is a 32-bit shift array with moveable taps. Output of the shift register outputs user-defined MIDI notes.
+
+**Gauss** and **Henon** are discrete-time dynamical systems. Coordinates of the particle control MIDI CC, or alternatively pitchbend, velocity, and channel pressure.
+
+**Shift Register** is a 16-bit shift array with a probabilty control for memory corruption. Output of the shift register outputs MIDI notes 0-127 and velocity.
 
 **Tilt-O-Whirl** is a 2D physics simulation with up to 8 bouncing balls. Wall collisions trigger user-defined MIDI notes.
