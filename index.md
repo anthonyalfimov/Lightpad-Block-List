@@ -73,7 +73,7 @@ Cello Controller using Lightpad Blocks.
 
 [![Random Pentatonic Music Video](https://img.youtube.com/vi/cG7JUC06XA8/0.jpg)](https://www.youtube.com/watch?v=cG7JUC06XA8)
 
-*by Donya Quick* | [\[Download\]](https://github.com/donya/LittlefootProjects/blob/master/simple_generative_music.littlefoot) | [\[Video\]](https://www.youtube.com/watch?v=cG7JUC06XA8)
+*by Donya Quick* | [\[Download\]](https://github.com/donya/LittlefootProjects/blob/master/simple_generative_music.littlefoot) | [\[Video\]](https://www.youtube.com/watch?v=cG7JUC06XA8) | [\[Video by Perplex On\]](https://www.youtube.com/watch?v=E5eQh5zh-_Y)
 
 Random pentatonic music for the ROLI Lightpad Block.
 
@@ -101,7 +101,7 @@ A generative system for the ROLI Lightpad Block, features generative algorithms 
 
 [![Ambient iPad Jam Feat. Roli Lightpad Block + Bouncing Ball](https://img.youtube.com/vi/mCvAFdrIR60/0.jpg)](https://www.youtube.com/watch?v=mCvAFdrIR60)
 
-*by Guy Dupont* | [\[Download\]](https://github.com/dupontgu/roli-blocks-melodic-bounce) | [\[Video\]](https://youtu.be/O47i_-W_0F4) | [\[Demo by Perplex On\]](https://www.youtube.com/watch?v=mCvAFdrIR60)
+*by Guy Dupont* | [\[Download\]](https://github.com/dupontgu/roli-blocks-melodic-bounce) | [\[Video\]](https://youtu.be/O47i_-W_0F4) | [\[Video by Perplex On\]](https://www.youtube.com/watch?v=mCvAFdrIR60)
 
 Click and drag to draw rectangles.  When the ball collides, MIDI notes will be triggered.
 
@@ -189,7 +189,7 @@ Using LSTM(Long Short-Term Memory) to learn a musician's musical gestures on the
 
 [![LDM ROLI Blocks Pack Playlist](https://img.youtube.com/vi/vV02FiNLysc/0.jpg)](https://www.youtube.com/playlist?list=PL4MRxWhueR3w-gSqCAdU0e0xQfbhYkaap)
 
-*by LDM Design* | [\[Buy\]](https://isotonikstudios.com/product/ldm-roli-blocks-pack/) | [\[Video Playlist\]](https://www.youtube.com/playlist?list=PL4MRxWhueR3w-gSqCAdU0e0xQfbhYkaap)
+*by LDM Design* | [\[Buy\]](https://isotonikstudios.com/product/ldm-roli-blocks-pack/) | [\[Video Playlist\]](https://www.youtube.com/playlist?list=PL4MRxWhueR3w-gSqCAdU0e0xQfbhYkaap) | [\[**Pressure Cafe** Video by Perplex On\]](https://www.youtube.com/watch?v=5MisAP0ZtGU)
 
 **Boing Block** is based on a monome device which provides an easy and fun interface for creating polymetric rhythms. It allows for different directional modes for more sequence lengths. The app can run from the Lightpad’s internal clocking ability (which is limited to arbitrary speeds and can’t provide specific BPM values) or by an external clock source. It will also advance once step each time it receives a C-2 note, which can allow for different speeds and odd sequencing.
 
@@ -207,7 +207,7 @@ Using LSTM(Long Short-Term Memory) to learn a musician's musical gestures on the
 
 [![LDM ROLI Blocks Pack Playlist](https://img.youtube.com/vi/3MSL1IDcfW8/0.jpg)](https://www.youtube.com/playlist?list=PL4MRxWhueR3xW5eWochoOWSGXr64V3bCx)
 
-*by LDM Design* | [\[Buy\]](https://isotonikstudios.com/product/ldm-roli-blocks-pack-two/) | [\[Video Playlist\]](https://www.youtube.com/playlist?list=PL4MRxWhueR3xW5eWochoOWSGXr64V3bCx)
+*by LDM Design* | [\[Buy\]](https://isotonikstudios.com/product/ldm-roli-blocks-pack-two/) | [\[Video Playlist\]](https://www.youtube.com/playlist?list=PL4MRxWhueR3xW5eWochoOWSGXr64V3bCx) | [\[**Pentagome** Video by Perplex On\]](https://www.youtube.com/watch?v=rdRHqnqtKXs)
 
 **Bjorklund** is a euclidean sequencer with 6 channels. Each channel can have up to 24 steps for the total length. The number of pulses within those steps are spread out as evenly as possible across the sequence according to the Bjorklund euclidean algorithm.
 
@@ -231,7 +231,7 @@ A simple 8-step monophonic MIDI step sequencer, which contains: 8 sliders for se
 
 ## ROLI-toys
 
-*by Thomas Morrill* | [\[Download\]](https://github.com/tsmorrill/ROLI-toys)
+*by Thomas Morrill* | [\[Download\]](https://github.com/tsmorrill/ROLI-toys) | [\[**Amuse** Video by Perplex On\]](https://www.instagram.com/p/CR1myNAIC-X/)
 
 MIDI generators.
 
