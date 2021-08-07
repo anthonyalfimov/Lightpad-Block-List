@@ -62,6 +62,8 @@ Keytar controller using ROLI Seaboard and Lightpad Block.
 
 ## BLOCKS Playground
 
+[![BLOCKS Playground](https://user-images.githubusercontent.com/43878921/128596187-2b9a3c34-df17-4b3b-9aea-c5bdf27bd6a3.png)](https://wangpy.github.io/blocks-playground/)
+
 *by Brian Wang* | [\[Website\]](https://wangpy.github.io/blocks-playground/) | [\[Source\]](https://github.com/wangpy/blocks-playground)
 
 This project is developed to provide a more friendly platform to develop programs for ROLI Lightpad Block / Lightpad M devices.
