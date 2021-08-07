@@ -50,6 +50,16 @@ This app outputs MIDI based on the radial and angular position of your finger. J
 
 ---
 
+## BlocksKeytar
+
+[![BlocksKeytar Video](https://img.youtube.com/vi/LlwWly729C0/0.jpg)](https://www.youtube.com/watch?v=LlwWly729C0)
+
+*by Brian Wang* | [\[Download\]](https://github.com/wangpy/BlocksKeytar) | [\[Video\]](https://www.youtube.com/watch?v=LlwWly729C0)
+
+Keytar controller using ROLI Seaboard and Lightpad Block.
+
+---
+
 ## BLOCKS Playground
 
 *by Brian Wang* | [\[Website\]](https://wangpy.github.io/blocks-playground/) | [\[Source\]](https://github.com/wangpy/blocks-playground)
